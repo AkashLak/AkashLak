@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently attending the University of Waterloo for Management Engineering, and very interested in the endless potential of data <br>📊 Passionate about uncovering insights through data  <br>🌱 Always eager to learn and grow in tech  <br>❓  Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/akash-lakshmanan-09065b290/) to get to know me more!  <br>⚡ Fun fact:  I’ve built 7 data/ML projects in the past few months just for fun!  <br>🍁 Toronto, Canada
+🔭 I am currently attending the University of Waterloo for Management Engineering, and very interested in the endless potential of data <br>📊 Passionate about uncovering insights through data  <br>🌱 Always eager to learn and grow in tech  <br>❓  Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/akash-lakshmanan-09065b290/) to get to know me more! <br>🍁 Toronto, Canada
 
 
 # 💻 Tech Stack:
