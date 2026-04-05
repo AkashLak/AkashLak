@@ -26,12 +26,6 @@ I love solving complex problems at the intersection of **data engineering/scienc
 
 ---
 
-## 🎲 Random Joke
-
-<img src="https://readme-jokes.vercel.app/api?bgColor=%230d1117&qColor=%2358a6ff&aColor=%2379c0ff&borderColor=%2330363d&textColor=%23c9d1d9" width="700"/>
-
----
-
 ## 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -56,6 +50,12 @@ I love solving complex problems at the intersection of **data engineering/scienc
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37726.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+
+---
+
+## 🎲 Need a Break? Heres a Joke
+
+<img src="https://readme-jokes.vercel.app/api?bgColor=%230d1117&qColor=%2358a6ff&aColor=%2379c0ff&borderColor=%2330363d&textColor=%23c9d1d9" width="700"/>
 
 ---
 
