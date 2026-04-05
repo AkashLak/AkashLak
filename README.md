@@ -53,12 +53,6 @@ I love solving complex problems at the intersection of **data engineering/scienc
 
 ---
 
-## 🎲 Need a Break? Heres a Joke
-
-<img src="https://readme-jokes.vercel.app/api?bgColor=%230d1117&qColor=%2358a6ff&aColor=%2379c0ff&borderColor=%2330363d&textColor=%23c9d1d9" width="700"/>
-
----
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=akashlak&label=Profile%20views&color=0e75b6&style=flat" alt="akashlak" />
   &nbsp;
@@ -66,6 +60,12 @@ I love solving complex problems at the intersection of **data engineering/scienc
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
+
+---
+
+## 🎲 Need a Break? Heres a Joke
+
+<img src="https://readme-jokes.vercel.app/api?bgColor=%230d1117&qColor=%2358a6ff&aColor=%2379c0ff&borderColor=%2330363d&textColor=%23c9d1d9" width="700"/>
 
 ---
 
