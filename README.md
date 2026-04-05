@@ -66,3 +66,13 @@ I love solving complex problems at the intersection of **data science, distribut
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
+
+---
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AkashLak/AkashLak/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AkashLak/AkashLak/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/AkashLak/AkashLak/output/github-snake.svg" style="background: none; border-radius: 10px;" />
+  </picture>
+</p>
