@@ -20,9 +20,9 @@ I love solving complex problems at the intersection of **data science, distribut
 
 ## 🔍 What I'm Exploring
 
-🌱 **Problems at Scale**: designing systems that handle billions of events, petabyte datasets, and sub-second SLAs without falling apart
-💰 **Storage Tradeoffs & The Economics of Data**: use cases for vector vs relational storage, and building pipelines that scale without the compute bill doing the same
-🤖 **AI Agents & Context Management** — agents that maintain state, manage memory, and make decisions across long, complex workflows
+🌱 **Problems at Scale**: designing systems that handle billions of events, petabyte datasets, and sub-second SLAs without falling apart  
+💰 **Storage Tradeoffs & The Economics of Data**: use cases for vector vs relational storage, and building pipelines that scale without the compute bill doing the same  
+🤖 **AI Agents & Context Management**: agents that maintain state, manage memory, and make decisions across long, complex workflows
 
 ---
 
