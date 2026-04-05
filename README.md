@@ -10,7 +10,7 @@
 
 I'm a **Data Engineer** building **data infrastructure at scale**. I focus on pipeline architecture, cloud optimization, and turning raw data into reliable, actionable systems.
 
-I love solving complex problems at the intersection of **data engineering, distributed systems, and AI**. Whether it's orchestrating pipelines across petabyte datasets or designing fault-tolerant streaming architectures, I'm drawn to the hard problems.
+I love solving complex problems at the intersection of **data science, distributed systems and AI**. Whether it's scaling pipelines to billions of events, reducing compute costs, or uncovering insights from the data that flows through it all, I'm drawn to the messy challenges that actually matter at scale.
 
 - 📊 **Current:** Data Engineer @ Department of National Defence
 - 🎓 **Education:** Management Engineering + AI @ University of Waterloo
@@ -20,12 +20,9 @@ I love solving complex problems at the intersection of **data engineering, distr
 
 ## 🔍 What I'm Exploring
 
-🤖 **AI Agents & Agentic Workflows** — multi-step reasoning, tool-use, and autonomous pipelines that close the loop between data and decision  
-⚡ **Real-time Streaming Architectures** — low-latency event processing with Kafka, Flink, and change data capture patterns  
-🏗️ **LLM Infrastructure at Scale** — retrieval-augmented generation (RAG), vector databases, and serving models over massive data  
-📐 **Infrastructure Optimization & Scheduling** — cost-efficient compute orchestration, autoscaling, and DAG-level performance tuning  
-🌐 **Data Mesh & Federated Architectures** — decentralized ownership, domain-oriented pipelines, and interoperable data contracts  
-🌱 **Problems at scale** — billions of events, petabyte datasets, sub-second SLAs
+🌱 **Problems at Scale**: designing systems that handle billions of events, petabyte datasets, and sub-second SLAs without falling apart
+💰 **Storage Tradeoffs & The Economics of Data**: use cases for vector vs relational storage, and building pipelines that scale without the compute bill doing the same
+🤖 **AI Agents & Context Management** — agents that maintain state, manage memory, and make decisions across long, complex workflows
 
 ---
 
