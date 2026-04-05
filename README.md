@@ -1,7 +1,7 @@
 # Welcome To My GitHub Profile <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=80&lines=Hey+there%2C+I'm+Akash!+%F0%9F%91%8B;Data+Engineer+%7C+AI+Enthusiast;Building+at+Scale+%E2%9A%A1" alt="Hey there, I'm Akash!" />
+  <img src="https://github.com/AkashLak/AkashLak/raw/main/assets/github.gif" alt="Hey there, I'm Akash!">
 </p>
 
 ---
