@@ -8,9 +8,9 @@
 
 ## About Me
 
-I'm a **Data Engineer** building **data infrastructure at scale**. I focus on pipeline architecture, cloud optimization, and turning raw data into reliable, actionable systems.
+I'm a **Data Engineer** & **Data Scientist** specializing in building **data infrastructure at scale**. I focus on pipeline architecture, cloud optimization, and turning raw data into reliable, actionable systems/insights.
 
-I love solving complex problems at the intersection of **data science, distributed systems and AI**. Whether it's scaling pipelines to billions of events, reducing compute costs, or uncovering insights from the data that flows through it all, I'm drawn to the messy challenges that actually matter at scale.
+I love solving complex problems at the intersection of **data engineering/science, distributed systems and AI**. Whether it's scaling pipelines to billions of events, reducing compute costs, or uncovering insights from the data that flows through it all, I'm drawn to the messy challenges that actually matter at scale.
 
 - 📊 **Current:** Data Engineer @ Department of National Defence
 - 🎓 **Education:** Management Engineering + AI @ University of Waterloo
