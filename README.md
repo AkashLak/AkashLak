@@ -1,4 +1,4 @@
-# Welcome To My GitHub Profile <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Welcome To My GitHub Profile <img src="https://github.com/AkashLak/AkashLak/raw/main/assets/wave_github.gif" width="30px">
 
 <p align="center">
   <img src="https://github.com/AkashLak/AkashLak/raw/main/assets/github.gif" alt="Hey there, I'm Akash!">
