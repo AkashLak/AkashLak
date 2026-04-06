@@ -81,4 +81,4 @@ I love solving complex problems at the intersection of **data engineering/scienc
 
 ## 🤝 Connect
 - 📧 **Email:** akash.lak2006@gmail.com
-- 💼 **LinkedIn:** [akash-lakshmanan](https://www.linkedin.com/in/akash-lakshmanan-09065b290/)
+- 💼 **LinkedIn:** [akash-lak](https://www.linkedin.com/in/akash-lakshmanan-09065b290/)
