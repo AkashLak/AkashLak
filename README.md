@@ -76,3 +76,9 @@ I love solving complex problems at the intersection of **data engineering/scienc
     <img alt="github-snake" src="https://raw.githubusercontent.com/AkashLak/AkashLak/output/github-snake.svg" style="background: none; border-radius: 10px;" />
   </picture>
 </p>
+
+---
+
+## 🤝 Connect
+- 📧 **Email:** akash.lak2006@gmail.com
+- 💼 **LinkedIn:** [akash-lakshmanan](https://www.linkedin.com/in/akash-lakshmanan-09065b290/)
